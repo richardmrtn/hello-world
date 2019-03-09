@@ -1,3 +1,3 @@
 # hello-world
-Richard
+Richard.
 I'm here to learn.
