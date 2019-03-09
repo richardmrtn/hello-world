@@ -1,2 +1,3 @@
 # hello-world
-From tutorial
+Richard.
+I'm here to learn.
